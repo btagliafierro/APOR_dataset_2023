@@ -12,7 +12,7 @@ The two folders contain the information that are necessary to generate the focus
 | 0.0015   | -1.345e-10   | -4.925e-11      |
 | ...      | ...          | ...             |
 
-
+Please, use the following reference in case you want to acknowledge this dataset.
 ```bibtex
 @article{tagliafierro_2023_DeepCwind_SPH,
   title = {Numerical investigation of a semi-submersible floating offshore wind turbine platform interacting with ocean waves using an SPH framework},
