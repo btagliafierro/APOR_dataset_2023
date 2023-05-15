@@ -2,3 +2,13 @@
 This dataset contains the information to enforce the reproducibility of the results presented in Section 5 of the paper "Numerical investigation of a semi-submersible floating offshore wind turbine platform interacting with ocean waves using an SPH framework"
 
 The two folders contain the information that are necessary to generate the focused wave trains described in Table 6 and Table 7. The files are named accordigly to the case they refer to. Each file has three columns.
+
+```bibtex
+@article{tagliafierro2023numerical,
+  title = {Numerical investigation of a semi-submersible floating offshore wind turbine platform interacting with ocean waves using an SPH framework},
+  author = {Tagliafierro, Bonaventura and Karimirad, Madjid and Altomare, Corrado and Göteman, Malin and Martínez-Estévez, Iván and Capasso, Salvatore and Domínguez, José M. and Viccione, Giacomo and Gómez-Gesteira, Moncho and Crespo, Alejandro J.C.},
+  journal = {Applied Ocean Research},
+  year = {2023},
+  doi = {10.1016/j.apor.2023.XXXX}, % Replace XXXX with the actual DOI when available
+}
+
