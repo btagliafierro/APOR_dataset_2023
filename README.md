@@ -4,7 +4,7 @@ This dataset contains the information to enforce the reproducibility of the resu
 The two folders contain the information that are necessary to generate the focused wave trains described in Table 6 and Table 7. The files are named accordigly to the case they refer to. Each file has three columns.
 
 ```bibtex
-@article{tagliafierro2023numerical,
+@article{tagliafierro_2023_DeepCwind_SPH,
   title = {Numerical investigation of a semi-submersible floating offshore wind turbine platform interacting with ocean waves using an SPH framework},
   author = {Tagliafierro, Bonaventura and Karimirad, Madjid and Altomare, Corrado and Göteman, Malin and Martínez-Estévez, Iván and Capasso, Salvatore and Domínguez, José M. and Viccione, Giacomo and Gómez-Gesteira, Moncho and Crespo, Alejandro J.C.},
   journal = {Applied Ocean Research},
