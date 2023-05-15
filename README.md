@@ -3,9 +3,10 @@ This dataset contains the information to enforce the reproducibility of the resu
 
 The two folders contain the information that are necessary to generate the focused wave trains described in Table 6 and Table 7. The files are named accordigly to the case they refer to. Each file has three columns.
 
+
 | time [s] | position [m] | elevation xf [m] |
 |----------|--------------|-----------------|
-| 0        | 0            | -0              |
+| 0        | 0            | 0              |
 | 0.0005   | -1.481e-11   | -5.491e-12      |
 | 0.001    | -5.951e-11   | -2.193e-11      |
 | 0.0015   | -1.345e-10   | -4.925e-11      |
