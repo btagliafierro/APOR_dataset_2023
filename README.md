@@ -15,7 +15,7 @@ The two folders contain the information that are necessary to generate the focus
 Please, use the following reference in case you want to acknowledge this dataset.
 ```bibtex
 @article{tagliafierro_2023_DeepCwind_SPH,
-  title = {Numerical investigation of a semi-submersible floating offshore wind turbine platform interacting with ocean waves using an SPH framework},
+  title = {Numerical validations and investigation of a semi-submersible floating offshore wind turbine platform interacting with ocean waves using an SPH framework},
   author = {Tagliafierro, Bonaventura and Karimirad, Madjid and Altomare, Corrado and Göteman, Malin and Martínez-Estévez, Iván and Capasso, Salvatore and Domínguez, José M. and Viccione, Giacomo and Gómez-Gesteira, Moncho and Crespo, Alejandro J.C.},
   journal = {Applied Ocean Research},
   year = {2023},
