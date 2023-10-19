@@ -19,6 +19,6 @@ Please, use the following reference in case you want to acknowledge this dataset
   author = {Tagliafierro, Bonaventura and Karimirad, Madjid and Altomare, Corrado and Göteman, Malin and Martínez-Estévez, Iván and Capasso, Salvatore and Domínguez, José M. and Viccione, Giacomo and Gómez-Gesteira, Moncho and Crespo, Alejandro J.C.},
   journal = {Applied Ocean Research},
   year = {2023},
-  doi = {10.1016/j.apor.2023.XXXX}, % Replace XXXX with the actual DOI when available
+  doi = {10.1016/j.apor.2023.103757},
 }
 
